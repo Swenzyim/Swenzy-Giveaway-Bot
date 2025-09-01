@@ -1,7 +1,7 @@
 {
-  "token": "MTQxMTYzMDAyMzI5NDU4NjkzMQ.GBWcfI.NC8dLX3bcEEz-KsF7THyqkMCmmJ7xVofvO36T0", 
+  "token": "Bot-Token", 
   "prefix": ".",
   "everyoneMention": false,
-  "copyright": "GiveawayBot™ by Swenzyim",
+  "copyright": "GiveawayBot by Swenzyim",
   "hostedBy": true
 }

@@ -1,4 +1,4 @@
-# Swenzy Development Genel Bot
+# Swenzy Giveaway Bot
 ---
 
 ### Nasıl Kurulur?

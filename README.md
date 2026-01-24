@@ -11,4 +11,4 @@
 
 ## Hata Aldıysan Discord Sunucumuza Gelebilirsin!
 
-[![Discord Banner](https://api.weblutions.com/discord/invite/react/)](https://discord.gg/bdfd)
+[![Discord Banner](https://api.weblutions.com/discord/invite/altyapilar/)](https://discord.gg/altyapilar)
